@@ -1,7 +1,11 @@
 lis1 = ["hello","bye","care","abc"]
+
+
 bad_counter = []
 
-bad_letters = list(str(input("what are your forbidden letter? (e.g asrwsd)")))
+print("The words are ",end = "")
+print(lis1)
+bad_letters = list(str(input("what are your forbidden letter? (e.g \'e\')")))
 
 
 def avoids(a):
@@ -16,13 +20,13 @@ def avoids(a):
         else:
             pass
            # print("yes")
-    print(a, correct,num," bad letters")
+    print(a, correct,"Number of bad letters",num,end = "\n\n")
     bad_counter.append(num)
        
 for a in lis1:
     avoids(a)
 
-print(bad_counter)
-
 hard = (min(bad_counter))
-print(bad_counter.index(hard))
+
+least = (bad_counter.index(hard))
+print(lis1[least],"has the least number of bad letters")
