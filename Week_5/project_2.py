@@ -1,5 +1,5 @@
 lis1 = ["hello","bye","care","abc"]
-let = list("abc")
+let = list(input("required letters"))
 def uses_all(a):
     use_all = True
     for i in let:
