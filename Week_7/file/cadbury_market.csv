@@ -1,13 +1,13 @@
-,,Brands,Products
-Refreshment Beverages,0,CADBURY BOURNVITA,cocoa powder
-Refreshment Beverages,1,CADBURY 3-in-1 HOT CHOCOLATE,cocoa butter
-Refreshment Beverages,2,,cocoa liquor
-Refreshment Beverages,3,,cocoa cake
-Confectionery,0,TOMTOM CLASSIC,Tom Tom
-Confectionery,1,TOMTOM STRAWBERRY,Buttermint
-Confectionery,2,BUTTERMINT,
-Confectionery,3,,
-Intermediate Cocoa Products,0,COCOA POWDER,Bournvita
-Intermediate Cocoa Products,1,COCOA BUTTER,Hot Chocolate
-Intermediate Cocoa Products,2,,
-Intermediate Cocoa Products,3,,
+,,Brands,Products,Exports,Local
+Refreshment Beverages,0,CADBURY BOURNVITA,cocoa powder,cocoa butter,cocoa powder
+Refreshment Beverages,1,CADBURY 3-in-1 HOT CHOCOLATE,cocoa butter,cocoa liquor,
+Refreshment Beverages,2,,cocoa liquor,cocoa cake,
+Refreshment Beverages,3,,cocoa cake,,
+Confectionery,0,TOMTOM CLASSIC,Tom Tom,,
+Confectionery,1,TOMTOM STRAWBERRY,Buttermint,,
+Confectionery,2,BUTTERMINT,,,
+Confectionery,3,,,,
+Intermediate Cocoa Products,0,COCOA POWDER,Bournvita,,
+Intermediate Cocoa Products,1,COCOA BUTTER,Hot Chocolate,,
+Intermediate Cocoa Products,2,,,,
+Intermediate Cocoa Products,3,,,,
